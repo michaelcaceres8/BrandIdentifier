@@ -1,4 +1,4 @@
-# Brand Detection in Amazon.it Search Terms
+# Brand Detection on Search Terms
 
 ## Project Overview
 This project focuses on detecting brands within historical search terms. The primary challenge is to determine whether a search term is branded or generic, and if branded, identify the specific brand. For instance, associating "iphone" with "Apple" as a branded search term.
